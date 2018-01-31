@@ -1,0 +1,13 @@
+All the operations are implemented in lisp.
+
+A) basic operations like:
+
+	1) length of nested list
+	2) before element
+	3) spliting
+	4) grouping
+	5) longest nested list
+
+B) Assigning values to the variables if two nested lists are in the same pattern.
+
+
